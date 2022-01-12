@@ -1,8 +1,8 @@
-##Deployed project at https://lowesilvan.github.io/Basic-React-Blog/
+##Deployed project at [https://lowesilvan.github.io/Basic-React-Blog/](https://lowesilvan.github.io/Basic-React-Blog/)
 
 # Getting Started with React App
 
-In the project directory, you can run:
+After cloning, In the project directory, you can run:
 
 ### `npm start`
 
